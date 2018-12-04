@@ -1,0 +1,11 @@
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/obj/Debug/netcoreapp2.1/Day03.csprojAssemblyReference.cache
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/obj/Debug/netcoreapp2.1/Day03.csproj.CoreCompileInputs.cache
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/obj/Debug/netcoreapp2.1/Day03.AssemblyInfoInputs.cache
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/obj/Debug/netcoreapp2.1/Day03.AssemblyInfo.cs
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/bin/Debug/netcoreapp2.1/Day03.deps.json
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/bin/Debug/netcoreapp2.1/Day03.runtimeconfig.json
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/bin/Debug/netcoreapp2.1/Day03.runtimeconfig.dev.json
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/bin/Debug/netcoreapp2.1/Day03.dll
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/bin/Debug/netcoreapp2.1/Day03.pdb
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/obj/Debug/netcoreapp2.1/Day03.dll
+/Users/derek/Dev/adventofcode/AdventOfCode/Day03/obj/Debug/netcoreapp2.1/Day03.pdb
